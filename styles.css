@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.section1{
+background-color: #1F2937;
+}
+.header-top{
+display: flex;
+justify-content: space-between;
+}
+
+ul, li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.header-links ul {
+    display: flex;
+
+}
+
+.section2{
+
+}
+
+.section3{
+background-color:#E5E7EB;
+}
+
+.section3{
+
+}
